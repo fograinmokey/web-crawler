@@ -1,6 +1,6 @@
 FORMAT: 1A
 HOST: http://polls.apiblueprint.org/
-> hhhh
+
 # support
 
 + 2017年7月12日
@@ -171,7 +171,7 @@ HOST: http://polls.apiblueprint.org/
             ]
         }
         
-## (GET)评论标签集合 [/commentConf/{id}]
+## (GET)评论标签集合 [/commentConfs/{id}]
 
 + Description
     + 
