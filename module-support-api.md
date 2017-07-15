@@ -34,7 +34,7 @@ HOST: http://polls.apiblueprint.org/
                 "topId": 0,
                 "replayId": 1,
                 "reUserId": 1031,
-                "content": "回复内容, 啊啊啊",
+                "content": "回复内容, 啊啊啊 专业",
                 "isAnonymous": 0,
                 "tagIds": [
                     1,
